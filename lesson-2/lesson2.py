@@ -34,6 +34,7 @@ attendees = ["Joe", "Jane", "John"]
 # for n in range(5): # list of Numbers
 #     print(n)
 
+# range(start, stop, step)
 # for week in range(1,4):
 #     print("Week {0}".format(week))
 
